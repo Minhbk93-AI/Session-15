@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.post-container {
+    width: 450px;
+}
+.post-container img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.post-container h2{
+    margin-bottom: 10px;
+}

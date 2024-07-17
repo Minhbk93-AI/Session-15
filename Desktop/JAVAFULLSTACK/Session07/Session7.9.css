@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.accordion-container{
+    border: 1px solid #dee4ed;
+    border-radius: 4px;
+    width: 700px;
+}
+.accordion-container .accordion-item .title,
+.accordion-container .accordion-item .content{
+    padding: 10px;
+    border-bottom: 1px solid #e8f2ff;
+    position: relative;
+}
+.accordion-container .accordion-item:last-child .title{
+    border: none;
+   
+    
+
+}
+.accordion-container .accordion-item:first-child .title{
+    background-color: #e8f2ff;
+    color: #1f6ae8;
+   
+}
+    
+

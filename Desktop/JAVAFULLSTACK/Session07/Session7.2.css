@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text-align-section {
+    font-size: 18px;
+    width: 900px;
+}
+
+.text-align-section h2 {
+    margin-bottom: 20px;
+    font-size: 30px
+}
+
+.text-align-section p {
+    margin-bottom: 10px;
+    
+
+}
+
+.text-align-section .demo {
+    border: 3px solid #0c7b0e;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.text-align-section p span {
+    color: #bd1947;
+    background-color: #f2f6f2;
+
+
+}
+
+.text-align-section .example-wrapper {
+    background-color: rgb(180, 194, 194);
+    border-left: 3px, solid #0c7b0e;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.text-align-section .example-wrapper h3 {
+    font-size: 25px;
+}
+
+.text-align-section .example-wrapper .code-demo {
+    background-color: #fff;
+    margin-top: 10px;
+    
+
+}
+
+.text-align-section .example-wrapper button {
+    background-color: #05ac6e;
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
