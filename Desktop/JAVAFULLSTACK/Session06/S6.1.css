@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+
+}
+.HoaiLam{
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+img{
+    width: 100%;
+}
+
+.image_HoaiLam{
+    position: relative;
+}
+.luot_xem{
+  color: white;
+  background-color: rgba(10, 10, 10,0.3);
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    
+}
+p{
+    margin-left: 10px;
+}
+.content{
+    font-size: 30px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
